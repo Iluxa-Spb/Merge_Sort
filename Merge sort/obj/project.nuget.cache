@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w8/uhP3IphSL2ag9hVc95Ba41S05F3kskdWjCWrvumPFLV0cT3RHSkb4mESvPyINQG2m9wCGs/ZxHvfztaXySg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Технология разработки программного обеспечения (C#)\\Практическая работа 9\\Merge sort\\Merge sort\\Merge sort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

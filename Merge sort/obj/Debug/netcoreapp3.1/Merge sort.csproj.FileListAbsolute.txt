@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.deps.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.runtimeconfig.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\bin\Debug\netcoreapp3.1\Merge sort.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 9\Merge sort\Merge sort\obj\Debug\netcoreapp3.1\Merge sort.genruntimeconfig.cache
